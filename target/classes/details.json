@@ -1,0 +1,27 @@
+[{
+  "startDate": "01-02-2021 15:30:00",
+  "endDate": "01-02-2021 16:30:00",
+  "capacity": "70",
+  "hallName": "Hall-B"
+},
+{
+  
+  "startDate": "02-02-2021 15:30:00",
+  "endDate": "02-02-2021 16:30:00",
+  "capacity": "50",
+  "hallName": "Hall-A"
+},
+{
+  
+  "startDate": "03-02-2021 15:30:00",
+  "endDate": "03-02-2021 16:30:00",
+  "capacity": "50",
+  "hallName": "Hall-C"
+},
+{
+  
+  "startDate": "04-02-2021 15:30:00",
+  "endDate": "04-02-2021 17:30:00",
+  "capacity": "120",
+  "hallName": "Hall-F"
+}]
